@@ -1,0 +1,43 @@
+/*
+   This is a secondary default stylesheet for mPDF
+   It will only parse element-level CSS here 
+   Remove the comment marks below and edit as required
+*/
+
+
+
+/* 
+   These values used to be the default prior to mPDF 4.2
+   Altered to make appearance closer to that of browsers
+   Uncomment these lines to return to behaviour prior to v4.2  
+*/
+
+
+/*
+img { margin: 0.83em 0; vertical-align: bottom; }
+table { margin: 0.5em; }
+textarea { vertical-align: top; }
+*/
+.tbl-bordered {
+	background: #FFF;
+  color: #024457;
+  border: 1px solid #167F92;
+}
+
+.tbl-bordered  thead  tr  th{
+	   border: 1px solid #FFF;
+    background-color: #167F92;
+    color: #FFF;
+    padding: 5px;
+}
+
+.tbl-bordered tbody tr td.first {
+	border: 1px solid #D9E4E6;
+	padding: 5px;
+}
+
+.tbl-bordered tbody tr td.second {
+	border: 1px solid #D9E4E6;
+	background-color: #D9E4E6;
+	padding: 5px;
+}

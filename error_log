@@ -1,0 +1,83 @@
+[27-Jan-2023 03:29:20 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'zul'@'localhost' (using password: YES) in /home/menx8456/public_html/cafe/conf/dbconnection.php on line 3
+[13-Feb-2023 02:08:15 UTC] PHP Fatal error:  Class 'mysqli' not found in /home/menx8456/public_html/cafe/conf/dbconnection.php on line 3
+[13-Feb-2023 02:08:18 UTC] PHP Fatal error:  Class 'mysqli' not found in /home/menx8456/public_html/cafe/conf/dbconnection.php on line 3
+[13-Feb-2023 02:08:22 UTC] PHP Fatal error:  Class 'mysqli' not found in /home/menx8456/public_html/cafe/conf/dbconnection.php on line 3
+[13-Feb-2023 02:08:45 UTC] PHP Fatal error:  Class 'mysqli' not found in /home/menx8456/public_html/cafe/conf/dbconnection.php on line 3
+[13-Feb-2023 02:09:53 UTC] PHP Fatal error:  Class 'mysqli' not found in /home/menx8456/public_html/cafe/conf/dbconnection.php on line 3
+[13-Feb-2023 02:09:55 UTC] PHP Fatal error:  Class 'mysqli' not found in /home/menx8456/public_html/cafe/conf/dbconnection.php on line 3
+[13-Feb-2023 02:10:38 UTC] PHP Fatal error:  Class 'mysqli' not found in /home/menx8456/public_html/cafe/conf/dbconnection.php on line 3
+[13-Feb-2023 02:11:37 UTC] PHP Fatal error:  Uncaught Error: Class 'mysqli' not found in /home/menx8456/public_html/cafe/conf/dbconnection.php:3
+Stack trace:
+#0 /home/menx8456/public_html/cafe/functions.php(2): require()
+#1 /home/menx8456/public_html/cafe/index.php(1): include('/home/menx8456/...')
+#2 {main}
+  thrown in /home/menx8456/public_html/cafe/conf/dbconnection.php on line 3
+[13-Feb-2023 02:11:40 UTC] PHP Fatal error:  Uncaught Error: Class 'mysqli' not found in /home/menx8456/public_html/cafe/conf/dbconnection.php:3
+Stack trace:
+#0 /home/menx8456/public_html/cafe/functions.php(2): require()
+#1 /home/menx8456/public_html/cafe/index.php(1): include('/home/menx8456/...')
+#2 {main}
+  thrown in /home/menx8456/public_html/cafe/conf/dbconnection.php on line 3
+[13-Feb-2023 02:12:47 UTC] PHP Fatal error:  Class 'mysqli' not found in /home/menx8456/public_html/cafe/conf/dbconnection.php on line 3
+[13-Feb-2023 02:13:45 UTC] PHP Fatal error:  Class 'mysqli' not found in /home/menx8456/public_html/cafe/conf/dbconnection.php on line 3
+[13-Feb-2023 02:14:49 UTC] PHP Fatal error:  Class 'mysqli' not found in /home/menx8456/public_html/cafe/conf/dbconnection.php on line 3
+[13-Feb-2023 02:23:23 UTC] PHP Fatal error:  Class 'mysqli' not found in /home/menx8456/public_html/cafe/conf/dbconnection.php on line 3
+[13-Feb-2023 02:23:35 UTC] PHP Fatal error:  Class 'mysqli' not found in /home/menx8456/public_html/cafe/conf/dbconnection.php on line 3
+[13-Feb-2023 02:23:43 UTC] PHP Fatal error:  Class 'mysqli' not found in /home/menx8456/public_html/cafe/conf/dbconnection.php on line 3
+[13-Feb-2023 02:23:46 UTC] PHP Fatal error:  Class 'mysqli' not found in /home/menx8456/public_html/cafe/conf/dbconnection.php on line 3
+[13-Feb-2023 02:23:47 UTC] PHP Fatal error:  Class 'mysqli' not found in /home/menx8456/public_html/cafe/conf/dbconnection.php on line 3
+[13-Feb-2023 02:23:54 UTC] PHP Fatal error:  Class 'mysqli' not found in /home/menx8456/public_html/cafe/conf/dbconnection.php on line 3
+[13-Feb-2023 02:24:00 UTC] PHP Fatal error:  Class 'mysqli' not found in /home/menx8456/public_html/cafe/conf/dbconnection.php on line 3
+[13-Feb-2023 02:24:48 UTC] PHP Fatal error:  Class 'mysqli' not found in /home/menx8456/public_html/cafe/conf/dbconnection.php on line 3
+[16-Feb-2023 07:31:16 UTC] PHP Parse error:  syntax error, unexpected 'or' (T_LOGICAL_OR) in /home/menx8456/public_html/cafe/process.php on line 53
+[16-Feb-2023 07:31:19 UTC] PHP Parse error:  syntax error, unexpected 'or' (T_LOGICAL_OR) in /home/menx8456/public_html/cafe/process.php on line 53
+[16-Feb-2023 07:31:21 UTC] PHP Parse error:  syntax error, unexpected 'or' (T_LOGICAL_OR) in /home/menx8456/public_html/cafe/process.php on line 53
+[16-Feb-2023 07:31:28 UTC] PHP Parse error:  syntax error, unexpected 'or' (T_LOGICAL_OR) in /home/menx8456/public_html/cafe/process.php on line 53
+[16-Feb-2023 07:31:29 UTC] PHP Parse error:  syntax error, unexpected 'or' (T_LOGICAL_OR) in /home/menx8456/public_html/cafe/process.php on line 53
+[16-Feb-2023 07:31:30 UTC] PHP Parse error:  syntax error, unexpected 'or' (T_LOGICAL_OR) in /home/menx8456/public_html/cafe/process.php on line 53
+[16-Feb-2023 07:31:30 UTC] PHP Parse error:  syntax error, unexpected 'or' (T_LOGICAL_OR) in /home/menx8456/public_html/cafe/process.php on line 53
+[16-Feb-2023 07:31:31 UTC] PHP Parse error:  syntax error, unexpected 'or' (T_LOGICAL_OR) in /home/menx8456/public_html/cafe/process.php on line 53
+[16-Feb-2023 07:31:35 UTC] PHP Parse error:  syntax error, unexpected 'or' (T_LOGICAL_OR) in /home/menx8456/public_html/cafe/process.php on line 53
+[16-Feb-2023 07:31:39 UTC] PHP Parse error:  syntax error, unexpected 'or' (T_LOGICAL_OR) in /home/menx8456/public_html/cafe/process.php on line 53
+[16-Feb-2023 07:31:40 UTC] PHP Parse error:  syntax error, unexpected 'or' (T_LOGICAL_OR) in /home/menx8456/public_html/cafe/process.php on line 53
+[16-Feb-2023 07:33:10 UTC] PHP Parse error:  syntax error, unexpected '||' (T_BOOLEAN_OR) in /home/menx8456/public_html/cafe/process.php on line 53
+[02-Mar-2023 10:11:24 UTC] PHP Fatal error:  Using $this when not in object context in /home/menx8456/public_html/cafe/index.php on line 2
+[02-Mar-2023 10:11:26 UTC] PHP Fatal error:  Using $this when not in object context in /home/menx8456/public_html/cafe/index.php on line 2
+[02-Mar-2023 10:11:30 UTC] PHP Fatal error:  Using $this when not in object context in /home/menx8456/public_html/cafe/index.php on line 2
+[02-Mar-2023 10:11:33 UTC] PHP Fatal error:  Using $this when not in object context in /home/menx8456/public_html/cafe/index.php on line 2
+[02-Mar-2023 10:13:24 UTC] PHP Fatal error:  Call to undefined function base_url() in /home/menx8456/public_html/cafe/index.php on line 39
+[02-Mar-2023 10:13:25 UTC] PHP Fatal error:  Call to undefined function base_url() in /home/menx8456/public_html/cafe/index.php on line 39
+[02-Mar-2023 10:13:31 UTC] PHP Fatal error:  Call to undefined function base_url() in /home/menx8456/public_html/cafe/index.php on line 39
+[02-Mar-2023 10:13:32 UTC] PHP Fatal error:  Call to undefined function base_url() in /home/menx8456/public_html/cafe/index.php on line 39
+[02-Mar-2023 10:13:59 UTC] PHP Fatal error:  Call to undefined function base_url() in /home/menx8456/public_html/cafe/index.php on line 39
+[02-Mar-2023 10:14:00 UTC] PHP Fatal error:  Call to undefined function base_url() in /home/menx8456/public_html/cafe/index.php on line 39
+[02-Mar-2023 10:14:09 UTC] PHP Fatal error:  Call to undefined function base_url() in /home/menx8456/public_html/cafe/index.php on line 47
+[02-Mar-2023 10:14:09 UTC] PHP Fatal error:  Call to undefined function base_url() in /home/menx8456/public_html/cafe/index.php on line 47
+[02-Mar-2023 10:14:10 UTC] PHP Fatal error:  Call to undefined function base_url() in /home/menx8456/public_html/cafe/index.php on line 47
+[02-Mar-2023 10:14:11 UTC] PHP Fatal error:  Call to undefined function base_url() in /home/menx8456/public_html/cafe/index.php on line 47
+[02-Mar-2023 10:14:11 UTC] PHP Fatal error:  Call to undefined function base_url() in /home/menx8456/public_html/cafe/index.php on line 47
+[02-Mar-2023 10:14:11 UTC] PHP Fatal error:  Call to undefined function base_url() in /home/menx8456/public_html/cafe/index.php on line 47
+[02-Mar-2023 10:14:11 UTC] PHP Fatal error:  Call to undefined function base_url() in /home/menx8456/public_html/cafe/index.php on line 47
+[02-Mar-2023 10:14:12 UTC] PHP Fatal error:  Call to undefined function base_url() in /home/menx8456/public_html/cafe/index.php on line 47
+[02-Mar-2023 10:14:34 UTC] PHP Fatal error:  Call to undefined function base_url() in /home/menx8456/public_html/cafe/index.php on line 47
+[02-Mar-2023 10:14:34 UTC] PHP Fatal error:  Call to undefined function base_url() in /home/menx8456/public_html/cafe/index.php on line 47
+[02-Mar-2023 10:27:25 UTC] PHP Fatal error:  Call to undefined function base_url() in /home/menx8456/public_html/cafe/index.php on line 87
+[02-Mar-2023 10:27:26 UTC] PHP Fatal error:  Call to undefined function base_url() in /home/menx8456/public_html/cafe/index.php on line 87
+[03-Mar-2023 02:31:46 UTC] PHP Fatal error:  Call to undefined function base_url() in /home/menx8456/public_html/cafe/index.php on line 45
+[03-Mar-2023 02:31:48 UTC] PHP Fatal error:  Call to undefined function base_url() in /home/menx8456/public_html/cafe/index.php on line 45
+[03-Mar-2023 02:31:50 UTC] PHP Fatal error:  Call to undefined function base_url() in /home/menx8456/public_html/cafe/index.php on line 45
+[03-Mar-2023 02:31:51 UTC] PHP Fatal error:  Call to undefined function base_url() in /home/menx8456/public_html/cafe/index.php on line 45
+[03-Mar-2023 02:31:52 UTC] PHP Fatal error:  Call to undefined function base_url() in /home/menx8456/public_html/cafe/index.php on line 45
+[03-Mar-2023 02:32:35 UTC] PHP Fatal error:  Call to undefined function base_url() in /home/menx8456/public_html/cafe/index.php on line 45
+[03-Mar-2023 02:32:36 UTC] PHP Fatal error:  Call to undefined function base_url() in /home/menx8456/public_html/cafe/index.php on line 45
+[03-Mar-2023 02:32:37 UTC] PHP Fatal error:  Call to undefined function base_url() in /home/menx8456/public_html/cafe/index.php on line 45
+[03-Mar-2023 02:32:37 UTC] PHP Fatal error:  Call to undefined function base_url() in /home/menx8456/public_html/cafe/index.php on line 45
+[03-Mar-2023 02:32:49 UTC] PHP Fatal error:  Call to undefined function base_url() in /home/menx8456/public_html/cafe/index.php on line 45
+[24-May-2023 11:29:56 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1040): Too many connections in /home/menx8456/public_html/cafe/conf/dbconnection.php on line 3
+[24-May-2023 11:30:13 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1040): Too many connections in /home/menx8456/public_html/cafe/conf/dbconnection.php on line 3
+[31-May-2023 12:52:36 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1040): Too many connections in /home/menx8456/public_html/cafe/conf/dbconnection.php on line 3
+[31-May-2023 12:52:55 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1040): Too many connections in /home/menx8456/public_html/cafe/conf/dbconnection.php on line 3
+[31-May-2023 12:53:38 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1040): Too many connections in /home/menx8456/public_html/cafe/conf/dbconnection.php on line 3
+[31-May-2023 12:53:49 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1040): Too many connections in /home/menx8456/public_html/cafe/conf/dbconnection.php on line 3
+[05-Jun-2023 12:08:17 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1040): Too many connections in /home/menx8456/public_html/cafe/conf/dbconnection.php on line 3
+[05-Jun-2023 13:07:20 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1040): Too many connections in /home/menx8456/public_html/cafe/conf/dbconnection.php on line 3

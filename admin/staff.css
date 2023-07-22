@@ -1,0 +1,19 @@
+.menu {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding-top: 5px;
+    padding-bottom: 5px;
+
+  }
+
+  .background-cerah{
+    background-color: #E9ECEF;
+
+  }
+  .centered {
+    vertical-align: middle;
+    text-align: center;
+  }
+

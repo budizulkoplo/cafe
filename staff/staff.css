@@ -1,0 +1,43 @@
+.menu {
+    display: flex;
+    /* flex-direction: column; */
+    /* justify-content: center;
+    align-items: center; */
+    padding-top: 5px;
+    padding-bottom: 5px;
+
+  }
+
+  .background-cerah{
+    background-color: #E9ECEF;
+
+  }
+
+.fontkecil{
+    font-size: 8pt;
+    font-style: italic;
+    color: #bebebe;
+    
+}
+
+.fontmenu{
+  font-size: 16pt;
+  
+}
+
+.image-menu {
+   /* atur lebar bingkai kotak */
+  width: 30%; /* atur tinggi bingkai kotak */
+  float: left;
+  margin-right: 10px;
+  border: 1px solid #ccc; /* atur garis tepi bingkai kotak */
+}
+
+.image-menu img {
+  max-width: 100%; /* agar gambar tidak melebihi lebar bingkai kotak */
+  max-height: 100%; /* agar gambar tidak melebihi tinggi bingkai kotak */
+}
+
+.menu-text {
+  text-align: left;
+}
